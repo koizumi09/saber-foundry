@@ -17,9 +17,9 @@ In the current state of Computer Programming, we inscribe logic in linear sequen
 - However, it completely disregards our Spatial Problem Solving capabilities.
 - If you've played a factory builder like Satisfactory or Factorio, you know how intuitive problem solving is when you're thinking in terms of space, instead of a sequence.
 
-While learning, we all start with flowcharts, because they're the most intuitive way of inscribing logic in a way that's easy to read and write. However, as we get into writing code, flowcharts and logic become implicit in our code, but the code itself is sequential.
+While learning, we all start with flowcharts, because they're the most intuitive way of inscribing logic in a format that's easy to read, write and understand. However, as we get into writing code, flowcharts and logic become implicit in our thinking, but the code itself is always sequential.
 
-> Saber Foundry is a tool designed to let you inscribe logic in two dimensions, by letting you code through drawing flowcharts.
+> Saber Foundry is a tool designed to let you inscribe logic in two dimensions by letting you code through creating flowcharts.
 
 ---
 
