@@ -5,6 +5,7 @@ Its also a Polyglot tool, meaning the nodes of your flowchart can be in any (sup
 
 All flowcharts are Excalidraw flowcharts, so all your work is stored in .json format. No tool/vendor lock in, which is core to the philosophy of Saber.
 
+![[Visual Polyglot Orchastrator.png]]
 # Why?
 Core Idea - Humans (likely) evolved intelligence and problem solving ability for two purposes - **Language and Food.** 
 
